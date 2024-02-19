@@ -1,8 +1,0 @@
-1. Khái niệm
-- JS: ngôn ngữ lập trình kịch bản dựa vào các đối tượng có sẵn hoặc do ltv quy định
-2. Khai báo biến
-- Để lưu trữ thông tin
-- Quy tắc đặt tên biến
-vd: var tenBien=10 or var ten_bien=10 or var TenBien=10
-3. Toán tử
-3.1. Toán tử số học 
